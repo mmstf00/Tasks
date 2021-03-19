@@ -1,0 +1,1 @@
+Program to find the root of the each digit of element, and summation of these roots.
